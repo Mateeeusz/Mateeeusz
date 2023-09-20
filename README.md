@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mateeeusz or Mateusz Tężyński!
-- I'm 21 years old, I'm a IT student 🧑‍🎓 on UKSW in warsaw 🏙️. 
+- I'm 22 years old, I'm a IT student 🧑‍🎓 on UKSW in warsaw 🏙️. (Bachelor's Degree Done)
 - 👀 I’m interested in Programming, F1 🏎, Footbal (Fc Barcelona fan here) ⚽️, i like Businnes and traveling ✈️.
 - 🌱 I’m currently learning Front End development(CSS, HTML, JS), Java, C++ 👩🏻‍💻
 - 📫 You can reach me by emailing me: tezynskicommerce@gmail.com, DM on fb: Mateusz Tężyński, Dm on IG: mvtihehehe, Discord: MATI#6924.
